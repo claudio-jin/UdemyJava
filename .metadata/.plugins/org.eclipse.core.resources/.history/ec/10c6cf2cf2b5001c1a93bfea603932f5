@@ -1,8 +1,0 @@
-package application;
-
-public class ProgramWorker {
-
-	public static void main(String[] args) {
-		
-	}
-}
